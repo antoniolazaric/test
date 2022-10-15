@@ -1,5 +1,10 @@
 public class GoodStudent extends Student {
     @Override
+    public void intro() {
+
+    }
+
+    @Override
     public int learn(){
 
         System.out.println("Good student uci 10 sati");
